@@ -2,6 +2,7 @@
 title: Kadry Pamięci - Wesołe Miasteczko
 menus: "main"
 weight: 1
+categories: ["Kadry Pamięci"]
 description: Test czy zadziała.
 menus: "main"
 params:
