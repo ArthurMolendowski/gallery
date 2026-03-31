@@ -6,7 +6,7 @@ categories: ["Fotografia Motoryzacyjna"]
 params:
   theme: dark
 resources:
-  - src: Kryterium_OES_foto/119-AMS03810.jpg
+  - src: 119-AMS03810.jpg
     params:
       cover: true
 ---
